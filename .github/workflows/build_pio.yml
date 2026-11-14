@@ -2,7 +2,7 @@ name: Build firmware (PlatformIO)
 
 on:
   push:
-    branches: [main, develop]
+    branches: [main, develop, patch-1]
     tags: ['v*']
   pull_request:
     branches: [main]
