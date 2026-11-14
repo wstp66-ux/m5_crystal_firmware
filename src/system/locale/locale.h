@@ -251,6 +251,8 @@ extern const Locale LANG_PT;
 extern const Locale LANG_PL;
 extern const Locale LANG_RO;
 extern const Locale LANG_TR;
+extern const Locale LANG_ZH_CN;
+
 
 inline const Locale* L = &LANG_EN;
 
